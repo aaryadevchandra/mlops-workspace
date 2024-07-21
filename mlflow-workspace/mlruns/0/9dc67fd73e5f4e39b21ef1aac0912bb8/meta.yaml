@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9dc67fd73e5f4e39b21ef1aac0912bb8/artifacts
+end_time: 1721546399945
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9dc67fd73e5f4e39b21ef1aac0912bb8
+run_name: wistful-crow-88
+run_uuid: 9dc67fd73e5f4e39b21ef1aac0912bb8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721546399913
+status: 4
+tags: []
+user_id: aaryadevchandra

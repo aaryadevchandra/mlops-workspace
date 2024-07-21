@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/791152f09d4947fa9a1f1518eaa35aa7/artifacts
+end_time: 1721577698443
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 791152f09d4947fa9a1f1518eaa35aa7
+run_name: brawny-newt-806
+run_uuid: 791152f09d4947fa9a1f1518eaa35aa7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721577691475
+status: 3
+tags: []
+user_id: aaryadevchandra

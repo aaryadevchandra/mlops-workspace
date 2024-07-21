@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6822d03a216d4db79ffdf20ae1ab154f/artifacts
+end_time: 1721575344124
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6822d03a216d4db79ffdf20ae1ab154f
+run_name: adventurous-boar-298
+run_uuid: 6822d03a216d4db79ffdf20ae1ab154f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721575344079
+status: 4
+tags: []
+user_id: aaryadevchandra

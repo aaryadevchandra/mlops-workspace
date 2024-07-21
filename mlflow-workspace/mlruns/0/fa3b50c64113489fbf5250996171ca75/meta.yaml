@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/fa3b50c64113489fbf5250996171ca75/artifacts
+end_time: 1721546428932
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa3b50c64113489fbf5250996171ca75
+run_name: nebulous-kit-272
+run_uuid: fa3b50c64113489fbf5250996171ca75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721546428911
+status: 4
+tags: []
+user_id: aaryadevchandra

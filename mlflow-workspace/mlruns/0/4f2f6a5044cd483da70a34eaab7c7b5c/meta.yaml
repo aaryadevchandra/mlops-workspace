@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4f2f6a5044cd483da70a34eaab7c7b5c/artifacts
+end_time: 1721577420743
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4f2f6a5044cd483da70a34eaab7c7b5c
+run_name: unleashed-shrike-829
+run_uuid: 4f2f6a5044cd483da70a34eaab7c7b5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721577419929
+status: 3
+tags: []
+user_id: aaryadevchandra

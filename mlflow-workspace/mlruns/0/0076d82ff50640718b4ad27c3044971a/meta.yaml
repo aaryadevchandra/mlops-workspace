@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0076d82ff50640718b4ad27c3044971a/artifacts
+end_time: 1721577469068
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0076d82ff50640718b4ad27c3044971a
+run_name: unruly-eel-341
+run_uuid: 0076d82ff50640718b4ad27c3044971a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721577467851
+status: 3
+tags: []
+user_id: aaryadevchandra

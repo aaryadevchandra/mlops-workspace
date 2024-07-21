@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d08597133ba643ba86f0636cbd26dfe3/artifacts
+end_time: 1721576310672
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d08597133ba643ba86f0636cbd26dfe3
+run_name: dashing-kit-301
+run_uuid: d08597133ba643ba86f0636cbd26dfe3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721576309436
+status: 3
+tags: []
+user_id: aaryadevchandra

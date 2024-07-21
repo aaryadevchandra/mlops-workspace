@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0ff0900321bd40fe8b11ddc5ff08eb67/artifacts
+end_time: 1721577616146
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0ff0900321bd40fe8b11ddc5ff08eb67
+run_name: upset-cub-311
+run_uuid: 0ff0900321bd40fe8b11ddc5ff08eb67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721577614912
+status: 3
+tags: []
+user_id: aaryadevchandra
