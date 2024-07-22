@@ -18,6 +18,9 @@ exp = mlflow.get_experiment_by_name(experiment_name)
 
 if exp == None:
     mlflow.create_experiment(experiment_name)
+    
+else:
+    mlflow.set_experiment(experiment_name)
 
 class ObesityClassifierNetwork(nn.Module):
     
@@ -70,7 +73,7 @@ def main():
     
     
     with mlflow.start_run():
-        df = pd.read_csv('./Obesity Classification.csv')
+        df = pd.read_csv('mlflow-workspace/Obesity Classification.csv')
         
         label_enc = LabelEncoder()
         
@@ -111,7 +114,7 @@ def main():
         # final proper run with the best params
         lr = study.best_params['lr']
         weight_decay = study.best_params['weight_decay']
-        epochs = 1000
+        epochs = 5000
         
         params = {
             'lr': lr,
