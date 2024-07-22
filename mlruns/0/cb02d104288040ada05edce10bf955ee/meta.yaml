@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/cb02d104288040ada05edce10bf955ee/artifacts
+end_time: 1721624623341
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb02d104288040ada05edce10bf955ee
+run_name: placid-vole-95
+run_uuid: cb02d104288040ada05edce10bf955ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721624615771
+status: 3
+tags: []
+user_id: aaryadevchandra

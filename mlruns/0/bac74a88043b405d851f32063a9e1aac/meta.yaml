@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/bac74a88043b405d851f32063a9e1aac/artifacts
+end_time: 1721624458363
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bac74a88043b405d851f32063a9e1aac
+run_name: clumsy-snipe-830
+run_uuid: bac74a88043b405d851f32063a9e1aac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721624450771
+status: 3
+tags: []
+user_id: aaryadevchandra
