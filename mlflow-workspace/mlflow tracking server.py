@@ -72,7 +72,7 @@ def softmax_accuracy(probs, labels):
 def main():
     
     
-    with mlflow.start_run():
+    with mlflow.start_run() as run:
         df = pd.read_csv('mlflow-workspace/Obesity Classification.csv')
         
         label_enc = LabelEncoder()
@@ -145,6 +145,9 @@ def main():
         
         mlflow.log_metric('accuracy', test_accuracy)
         
+        mlflow.pytorch.log_model(pytorch_model=ocn, artifact_path=f"watashiwa")
+        model_uri = f"runs:/{run.info.run_id}"
+        mlflow.register_model(model_uri=model_uri, name="ocnmodel-v2")
 
 if __name__ == "__main__":
     main()

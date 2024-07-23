@@ -1,0 +1,21 @@
+artifact_path: watashiwa
+flavors:
+  python_function:
+    config:
+      device: null
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.9.6
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.1.2
+mlflow_version: 2.14.3
+model_size_bytes: 10884
+model_uuid: 417608e36e63403bb6443384e7921d1f
+run_id: 1a3168873bf046ec93ffa6c1e15aa38e
+utc_time_created: '2024-07-22 17:42:31.132637'
